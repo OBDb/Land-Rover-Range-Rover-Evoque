@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
+
+generations:
+  - name: "First Generation (L538)"
+    start_year: 2011
+    end_year: 2018
+    description: "The first Range Rover Evoque, a compact SUV on the Land Rover LR-MS platform with Ford-derived 2.0 gasoline and 2.2 or 2.0 diesel engines."
+  - name: "Second Generation (L551)"
+    start_year: 2019
+    end_year: null
+    description: "The second Evoque, on the Premium Transverse Architecture shared with the Discovery Sport, with Ingenium engines and mild and plug-in hybrid versions."
