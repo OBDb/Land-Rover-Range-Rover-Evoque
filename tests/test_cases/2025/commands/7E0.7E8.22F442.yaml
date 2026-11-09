@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    EVOQUE_RANGE_ROVER_BAT_V: 14.26
+  response: 7E80562F44237B4
+- expected_values:
+    EVOQUE_RANGE_ROVER_BAT_V: 14.28
+  response: 7E80562F44237C8
+- expected_values:
+    EVOQUE_RANGE_ROVER_BAT_V: 14.3
+  response: 7E80562F44237DC
+- expected_values:
+    EVOQUE_RANGE_ROVER_BAT_V: 14.34
+  response: 7E80562F4423804
+- expected_values:
+    EVOQUE_RANGE_ROVER_BAT_V: 14.36
+  response: 7E80562F4423818
+- expected_values:
+    EVOQUE_RANGE_ROVER_BAT_V: 14.4
+  response: 7E80562F4423840
+- expected_values:
+    EVOQUE_RANGE_ROVER_BAT_V: 14.42
+  response: 7E80562F4423854
+- expected_values:
+    EVOQUE_RANGE_ROVER_BAT_V: 14.44
+  response: 7E80562F4423868

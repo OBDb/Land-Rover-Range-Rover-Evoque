@@ -1,0 +1,8 @@
+command_id: 7E0.2203F3
+test_cases:
+- expected_values:
+    EVOQUE_SUMP_OIL_T: 34
+  response: 7E8046203F34A
+- expected_values:
+    EVOQUE_SUMP_OIL_T: 93
+  response: 7E8046203F385

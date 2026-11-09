@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22051C
+test_cases:
+- expected_values:
+    EVOQUE_AIR_CHG_T: 23
+  response: 7E80462051C3F
+- expected_values:
+    EVOQUE_AIR_CHG_T: 42
+  response: 7E80462051C52

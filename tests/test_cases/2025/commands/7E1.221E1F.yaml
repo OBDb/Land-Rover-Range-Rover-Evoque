@@ -1,0 +1,23 @@
+command_id: 7E1.221E1F
+test_cases:
+- expected_values:
+    EVOQUE_GEAR_ENGAGED: 0
+  response: 7E904621E1F00
+- expected_values:
+    EVOQUE_GEAR_ENGAGED: 3
+  response: 7E904621E1F03
+- expected_values:
+    EVOQUE_GEAR_ENGAGED: 4
+  response: 7E904621E1F04
+- expected_values:
+    EVOQUE_GEAR_ENGAGED: 7
+  response: 7E904621E1F07
+- expected_values:
+    EVOQUE_GEAR_ENGAGED: 8
+  response: 7E904621E1F08
+- expected_values:
+    EVOQUE_GEAR_ENGAGED: 9
+  response: 7E904621E1F09
+- expected_values:
+    EVOQUE_GEAR_ENGAGED: 70
+  response: 7E904621E1F46

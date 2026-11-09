@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F410
+test_cases:
+- expected_values:
+    EVOQUE_RANGE_ROVER_MAF: 0
+  response: 7E80562F4100000
+- expected_values:
+    EVOQUE_RANGE_ROVER_MAF: 38.38
+  response: 7E80562F4100EFE
+- expected_values:
+    EVOQUE_RANGE_ROVER_MAF: 74.94
+  response: 7E80562F4101D46

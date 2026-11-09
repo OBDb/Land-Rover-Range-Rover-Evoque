@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F405
+test_cases:
+- expected_values:
+    EVOQUE_RANGE_ROVER_COOLANT_TEMP: 44
+  response: 7E80462F40554
+- expected_values:
+    EVOQUE_RANGE_ROVER_COOLANT_TEMP: 91
+  response: 7E80462F40583

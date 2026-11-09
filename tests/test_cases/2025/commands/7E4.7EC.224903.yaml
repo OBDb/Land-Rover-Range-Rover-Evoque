@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224903
+test_cases:
+- expected_values:
+    EVOQUE_HVB_CELL_V_MAX: 3191
+  response: 7EC056249030C77
+- expected_values:
+    EVOQUE_HVB_CELL_V_MAX: 3321
+  response: 7EC056249030CF9
+- expected_values:
+    EVOQUE_HVB_CELL_V_MAX: 3330
+  response: 7EC056249030D02

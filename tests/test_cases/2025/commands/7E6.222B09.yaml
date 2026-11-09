@@ -1,0 +1,8 @@
+command_id: 7E6.222B09
+test_cases:
+- expected_values:
+    EVOQUE_RR_WHL_SPD: 0
+  response: 7EE04622B0900
+- expected_values:
+    EVOQUE_RR_WHL_SPD: 137
+  response: 7EE04622B0989

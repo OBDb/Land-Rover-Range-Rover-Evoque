@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F441
+test_cases:
+- expected_values:
+    EVOQUE_RANGE_ROVER_MONITOR_THIS_CYCLE: 969571
+  response: 7E80762F441000ECB63
+- expected_values:
+    EVOQUE_RANGE_ROVER_MONITOR_THIS_CYCLE: 969699
+  response: 7E80762F441000ECBE3

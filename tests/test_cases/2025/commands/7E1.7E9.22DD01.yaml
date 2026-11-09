@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22DD01
+test_cases:
+- expected_values:
+    EVOQUE_RANGE_ROVER_DD01_RAW: 41498
+  response: 7E90662DD0100A21A
+- expected_values:
+    EVOQUE_RANGE_ROVER_DD01_RAW: 41514
+  response: 7E90662DD0100A22A
+- expected_values:
+    EVOQUE_RANGE_ROVER_DD01_RAW: 41524
+  response: 7E90662DD0100A234

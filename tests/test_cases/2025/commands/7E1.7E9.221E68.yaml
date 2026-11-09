@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221E68
+test_cases:
+- expected_values:
+    EVOQUE_TRANS_OUTPUT_SHFT: 0
+  response: 7E904621E6800
+- expected_values:
+    EVOQUE_TRANS_OUTPUT_SHFT: 4576
+  response: 7E904621E688F

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F423
+test_cases:
+- expected_values:
+    EVOQUE_RANGE_ROVER_FUEL_RAIL_GAUGE_P: 29900
+  response: 7E80562F4230BAE
+- expected_values:
+    EVOQUE_RANGE_ROVER_FUEL_RAIL_GAUGE_P: 30900
+  response: 7E80562F4230C12
+- expected_values:
+    EVOQUE_RANGE_ROVER_FUEL_RAIL_GAUGE_P: 56300
+  response: 7E80562F42315FE
+- expected_values:
+    EVOQUE_RANGE_ROVER_FUEL_RAIL_GAUGE_P: 186280
+  response: 7E80562F42348C4

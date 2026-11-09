@@ -1,0 +1,8 @@
+command_id: 7E1.221F12
+test_cases:
+- expected_values:
+    EVOQUE_TQ_CONV_T: 34
+  response: 7E904621F1225
+- expected_values:
+    EVOQUE_TQ_CONV_T: 78
+  response: 7E904621F123B
