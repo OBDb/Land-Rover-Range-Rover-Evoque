@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    EVOQUE_RANGE_ROVER_DIST_SINCE_CLR: 783
+  response: 7E80562F431030F
+- expected_values:
+    EVOQUE_RANGE_ROVER_DIST_SINCE_CLR: 790
+  response: 7E80562F4310316
+- expected_values:
+    EVOQUE_RANGE_ROVER_DIST_SINCE_CLR: 798
+  response: 7E80562F431031E
+- expected_values:
+    EVOQUE_RANGE_ROVER_DIST_SINCE_CLR: 806
+  response: 7E80562F4310326
+- expected_values:
+    EVOQUE_RANGE_ROVER_DIST_SINCE_CLR: 809
+  response: 7E80562F4310329

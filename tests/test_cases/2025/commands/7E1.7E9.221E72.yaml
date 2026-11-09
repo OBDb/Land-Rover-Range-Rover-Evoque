@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221E72
+test_cases:
+- expected_values:
+    EVOQUE_TURBINE_SPD: 0
+  response: 7E904621E7200
+- expected_values:
+    EVOQUE_TURBINE_SPD: 2880
+  response: 7E904621E725A

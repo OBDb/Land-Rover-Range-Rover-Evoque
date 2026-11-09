@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    EVOQUE_RANGE_ROVER_LOAD_CALC: 0
+  response: 7E80462F40400
+- expected_values:
+    EVOQUE_RANGE_ROVER_LOAD_CALC: 84.70588
+  response: 7E80462F404D8

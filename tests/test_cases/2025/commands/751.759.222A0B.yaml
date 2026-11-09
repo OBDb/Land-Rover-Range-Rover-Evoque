@@ -1,0 +1,29 @@
+command_id: 751.759.222A0B
+test_cases:
+- expected_values:
+    EVOQUE_TT_FR: 12
+  response: 75904622A0B3E
+- expected_values:
+    EVOQUE_TT_FR: 13
+  response: 75904622A0B3F
+- expected_values:
+    EVOQUE_TT_FR: 14
+  response: 75904622A0B40
+- expected_values:
+    EVOQUE_TT_FR: 17
+  response: 75904622A0B43
+- expected_values:
+    EVOQUE_TT_FR: 20
+  response: 75904622A0B46
+- expected_values:
+    EVOQUE_TT_FR: 21
+  response: 75904622A0B47
+- expected_values:
+    EVOQUE_TT_FR: 22
+  response: 75904622A0B48
+- expected_values:
+    EVOQUE_TT_FR: 23
+  response: 75904622A0B49
+- expected_values:
+    EVOQUE_TT_FR: 25
+  response: 75904622A0B4B

@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.22490F
+test_cases:
+- expected_values:
+    EVOQUE_HVB_V: 16.77
+  response: 7EC0562490F068D
+- expected_values:
+    EVOQUE_HVB_V: 46.04
+  response: 7EC0562490F11FC
+- expected_values:
+    EVOQUE_HVB_V: 46.13
+  response: 7EC0562490F1205

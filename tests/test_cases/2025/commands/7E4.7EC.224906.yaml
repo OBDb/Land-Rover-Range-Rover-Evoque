@@ -1,0 +1,32 @@
+command_id: 7E4.7EC.224906
+test_cases:
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: -5.5
+  response: 7EC0462490645
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: -5
+  response: 7EC0462490646
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: -4.5
+  response: 7EC0462490647
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: -3.5
+  response: 7EC0462490649
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: -3
+  response: 7EC046249064A
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: -2.5
+  response: 7EC046249064B
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: -2
+  response: 7EC046249064C
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: 0
+  response: 7EC0462490650
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: 1
+  response: 7EC0462490652
+- expected_values:
+    EVOQUE_BATTERY_T_MIN: 1.5
+  response: 7EC0462490653
