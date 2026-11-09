@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     EVOQUE_RANGE_ROVER_DIST_SINCE_CLR: 809
   response: 7E80562F4310329
+- expected_values:
+    EVOQUE_RANGE_ROVER_DIST_SINCE_CLR: 811
+  response: 7E80562F431032B
+- expected_values:
+    EVOQUE_RANGE_ROVER_DIST_SINCE_CLR: 813
+  response: 7E80562F431032D

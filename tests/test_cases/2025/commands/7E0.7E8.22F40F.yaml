@@ -12,3 +12,21 @@ test_cases:
 - expected_values:
     EVOQUE_RANGE_ROVER_IAT: 18
   response: 7E80462F40F3A
+- expected_values:
+    EVOQUE_RANGE_ROVER_IAT: 19
+  response: 7E80462F40F3B
+- expected_values:
+    EVOQUE_RANGE_ROVER_IAT: 21
+  response: 7E80462F40F3D
+- expected_values:
+    EVOQUE_RANGE_ROVER_IAT: 22
+  response: 7E80462F40F3E
+- expected_values:
+    EVOQUE_RANGE_ROVER_IAT: 25
+  response: 7E80462F40F41
+- expected_values:
+    EVOQUE_RANGE_ROVER_IAT: 27
+  response: 7E80462F40F43
+- expected_values:
+    EVOQUE_RANGE_ROVER_IAT: 29
+  response: 7E80462F40F45

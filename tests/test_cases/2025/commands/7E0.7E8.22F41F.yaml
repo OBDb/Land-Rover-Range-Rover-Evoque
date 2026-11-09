@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    EVOQUE_RANGE_ROVER_RUN_TIME: 454
-  response: 7E80562F41F01C6
-- expected_values:
-    EVOQUE_RANGE_ROVER_RUN_TIME: 1294
-  response: 7E80562F41F050E
+    EVOQUE_RANGE_ROVER_RUN_TIME: 0
+  response: 7E80562F41F0000
 - expected_values:
     EVOQUE_RANGE_ROVER_RUN_TIME: 1533
   response: 7E80562F41F05FD

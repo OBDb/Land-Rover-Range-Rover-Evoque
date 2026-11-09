@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     EVOQUE_RANGE_ROVER_DD01_RAW: 41524
   response: 7E90662DD0100A234
+- expected_values:
+    EVOQUE_RANGE_ROVER_DD01_RAW: 41529
+  response: 7E90662DD0100A239

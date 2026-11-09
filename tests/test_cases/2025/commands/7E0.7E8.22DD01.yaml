@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     EVOQUE_RANGE_ROVER_ODO: 41524
   response: 7E80662DD0100A234
+- expected_values:
+    EVOQUE_RANGE_ROVER_ODO: 41529
+  response: 7E80662DD0100A239

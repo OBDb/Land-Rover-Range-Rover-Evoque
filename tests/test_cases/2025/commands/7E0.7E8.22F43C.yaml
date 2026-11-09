@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    EVOQUE_RANGE_ROVER_CAT_TEMP_B1: 161.6
-  response: 7E80562F43C07E0
+    EVOQUE_RANGE_ROVER_CAT_TEMP_B1: 72.1
+  response: 7E80562F43C0461
 - expected_values:
     EVOQUE_RANGE_ROVER_CAT_TEMP_B1: 267.3
   response: 7E80562F43C0C01
