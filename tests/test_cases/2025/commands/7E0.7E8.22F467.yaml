@@ -4,6 +4,9 @@ test_cases:
     EVOQUE_RANGE_ROVER_CAC_COOLANT_TEMP: 44
   response: 7E80662F467033854
 - expected_values:
+    EVOQUE_RANGE_ROVER_CAC_COOLANT_TEMP: 40
+  response: 7E80662F467033D50
+- expected_values:
     EVOQUE_RANGE_ROVER_CAC_COOLANT_TEMP: 93
   response: 7E80662F467034085
 - expected_values:

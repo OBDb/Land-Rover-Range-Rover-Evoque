@@ -4,6 +4,9 @@ test_cases:
     EVOQUE_12V_BATTERY: 12.5
   response: 75B0462DD0232
 - expected_values:
+    EVOQUE_12V_BATTERY: 14.25
+  response: 75B0462DD0239
+- expected_values:
     EVOQUE_12V_BATTERY: 14.5
   response: 75B0462DD023A
 - expected_values:

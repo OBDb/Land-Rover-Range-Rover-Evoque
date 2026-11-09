@@ -13,6 +13,9 @@ test_cases:
     EVOQUE_GEAR_CMD: 5
   response: 7E904621E1205
 - expected_values:
+    EVOQUE_GEAR_CMD: 6
+  response: 7E904621E1206
+- expected_values:
     EVOQUE_GEAR_CMD: 7
   response: 7E904621E1207
 - expected_values:

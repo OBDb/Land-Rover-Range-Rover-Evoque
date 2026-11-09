@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EVOQUE_RANGE_ROVER_WARMUPS: 30
   response: 7E80462F4301E
+- expected_values:
+    EVOQUE_RANGE_ROVER_WARMUPS: 31
+  response: 7E80462F4301F
