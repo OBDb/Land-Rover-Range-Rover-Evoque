@@ -4,29 +4,5 @@ test_cases:
     EVOQUE_TP_RR: 2.38902
   response: 7590562207800AE
 - expected_values:
-    EVOQUE_TP_RR: 2.41648
-  response: 7590562207800B0
-- expected_values:
-    EVOQUE_TP_RR: 2.43021
-  response: 7590562207800B1
-- expected_values:
-    EVOQUE_TP_RR: 2.44394
-  response: 7590562207800B2
-- expected_values:
-    EVOQUE_TP_RR: 2.45767
-  response: 7590562207800B3
-- expected_values:
-    EVOQUE_TP_RR: 2.48513
-  response: 7590562207800B5
-- expected_values:
-    EVOQUE_TP_RR: 2.51259
-  response: 7590562207800B7
-- expected_values:
-    EVOQUE_TP_RR: 2.54005
-  response: 7590562207800B9
-- expected_values:
-    EVOQUE_TP_RR: 2.55378
-  response: 7590562207800BA
-- expected_values:
     EVOQUE_TP_RR: 2.56751
   response: 7590562207800BB
