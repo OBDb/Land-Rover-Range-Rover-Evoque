@@ -1,8 +1,8 @@
 command_id: 751.759.222A0B
 test_cases:
 - expected_values:
-    EVOQUE_TT_FR: 12
-  response: 75904622A0B3E
+    EVOQUE_TT_FR: 9
+  response: 75904622A0B3B
 - expected_values:
     EVOQUE_TT_FR: 25
   response: 75904622A0B4B
