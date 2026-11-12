@@ -1,8 +1,8 @@
 command_id: 7E1.221E69
 test_cases:
 - expected_values:
-    EVOQUE_ATF_T: 19
-  response: 7E904621E693B
+    EVOQUE_ATF_T: 18
+  response: 7E904621E693A
 - expected_values:
     EVOQUE_ATF_T: 82
   response: 7E904621E697A
