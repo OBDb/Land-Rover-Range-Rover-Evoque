@@ -4,5 +4,5 @@ test_cases:
     EVOQUE_TP_RR: 2.37529
   response: 7590562207800AD
 - expected_values:
-    EVOQUE_TP_RR: 2.56751
-  response: 7590562207800BB
+    EVOQUE_TP_RR: 2.58124
+  response: 7590562207800BC
