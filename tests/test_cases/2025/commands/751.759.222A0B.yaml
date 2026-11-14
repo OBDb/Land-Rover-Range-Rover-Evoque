@@ -4,5 +4,5 @@ test_cases:
     EVOQUE_TT_FR: 8
   response: 75904622A0B3A
 - expected_values:
-    EVOQUE_TT_FR: 25
-  response: 75904622A0B4B
+    EVOQUE_TT_FR: 27
+  response: 75904622A0B4D
