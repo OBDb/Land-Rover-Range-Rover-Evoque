@@ -1,8 +1,8 @@
 command_id: '751.222076'
 test_cases:
 - expected_values:
-    EVOQUE_TP_FL: 2.40275
-  response: 7590562207600AF
+    EVOQUE_TP_FL: 2.37529
+  response: 7590562207600AD
 - expected_values:
     EVOQUE_TP_FL: 2.64989
   response: 7590562207600C1
