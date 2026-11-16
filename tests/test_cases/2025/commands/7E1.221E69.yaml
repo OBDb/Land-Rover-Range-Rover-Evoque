@@ -4,5 +4,5 @@ test_cases:
     EVOQUE_ATF_T: 12
   response: 7E904621E6934
 - expected_values:
-    EVOQUE_ATF_T: 82
-  response: 7E904621E697A
+    EVOQUE_ATF_T: 84
+  response: 7E904621E697C
